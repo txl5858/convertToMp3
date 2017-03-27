@@ -1,8 +1,7 @@
 # convertToMp3
 This is a simple program that uses lame.exe intended to convert .wav to mp3 files. 
 
-#convertMp3.ps1 script
-
+##convertMp3.ps1 script
 Param($folder)
 dir $folder |% {C:\convertMp3\lame\lame.exe -b 320 $_.fullname}
 
