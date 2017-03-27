@@ -10,6 +10,9 @@ Use this program at your own risk! I do not own the rights to lame.exe or ps2exe
 Installation
 Everything you need is in the .7z file.
 
+Make sure you enable the execution of powershell scripts on your machine. Open Powershell as Administrator and run the command: 
+Set-ExecutionPolicy Unrestricted
+
 1) Download the .7z file and extract to a file C:\convertMp3. If the files are not extracted to the correct location the program wont load properly.
 
 2) double-click the .reg file to enable windows explorer context
