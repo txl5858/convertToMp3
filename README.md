@@ -1,9 +1,5 @@
 # convertToMp3
-This is a simple program that uses lame.exe intended to convert .wav to mp3 files. 
-
-convertMp3.ps1 script
-Param($folder)
-dir $folder |% {C:\convertMp3\lame\lame.exe -b 320 $_.fullname}
+This is a simple program that uses lame.exe intended to convert .wav to mp3 files. The exe is just running a powershell program running lame.exe. The ps1 file is included for reference but you dont need it.
 
 It was made using ps2exe (powershell to exe) so it may not run on systems with versions of powershell older than the one used to compile the .exe. 
 
