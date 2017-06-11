@@ -13,6 +13,8 @@ Everything you need is in the .7z file.
 Make sure you enable the execution of powershell scripts on your machine. Open Powershell as Administrator and run the command: 
 Set-ExecutionPolicy Unrestricted
 
+As of June 11th 2017 the script is running with errors. It seems totally benine and everything still works as expected. Do not ctrl+c the script or .mp3 files may be incomplete.
+
 1) Download the .7z file and extract to a file C:\convertMp3. If the files are not extracted to the correct location the program wont load properly.
 
 2) double-click the .reg file to enable windows explorer context
