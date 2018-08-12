@@ -7,7 +7,6 @@ https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5
 There is .reg file included which will add the program as a Windows Explorer context item. This allows you to simply Right-click a folder and select convertMp3. The program will go through the folder you selected and convert all .wav files to mp3s. Mp3s should be converted in 320 kbps at a rate of 41.1 khz. 
 
 **Coming soon:** To assign album art, simply save the album art as "folder.jpg" or "folder.png". I have included the code sited below and as a stand alone script that can be ran.
-
 https://stuart-moore.com/using-powershell-add-images-mp3-files/
 
 Note - Windows Updates may cause the context menu to go away since core Windows Explorer reg keys are being modified. If that happens just reload the .reg file.
