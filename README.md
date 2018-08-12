@@ -23,7 +23,7 @@ Set-ExecutionPolicy Unrestricted
 
 3) double-click the .reg file to enable windows explorer context and destination location
 
-4) Now simply open Windows Explorer, browse to you folder of .wavs, right-click the folder and hit convertToMP3.
+4) Now simply open Windows Explorer, browse to a folder of .wavs, right-click the folder and hit convertToMP3.
 
 5) The script will prompt you for a destination folder name which it will create in the directory specified in step #2.
 
