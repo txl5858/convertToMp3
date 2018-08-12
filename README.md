@@ -1,9 +1,6 @@
 # convertMp3
 This is a simple program that uses lame.exe to convert .wav to mp3 files.
 
-There is a project called Powershell Audio which accomplishes this and other features much better.
-https://wiki.hydrogenaud.io/index.php?title=PowerShell_Audio
-
 The exe is just running a powershell program running lame.exe. The ps1 file is included for reference. The exe was made using ps2exe (powershell to exe) so it may not run on systems with versions of powershell older than the one used to compile the .exe (powershell version 5 windows 10).
 https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5
 
@@ -12,6 +9,9 @@ There is .reg file included which will add the program as a Windows Explorer con
 Note - Windows Updates may cause the context menu to go away since core Windows Explorer reg keys are being modified. If that happens just reload the .reg file.
 
 Use this program at your own risk! I do not own the rights to lame.exe or ps2exe! 
+
+FYI - There is a project called Powershell Audio which accomplishes this and other features much better.
+https://wiki.hydrogenaud.io/index.php?title=PowerShell_Audio
 
 # Installation:
 
