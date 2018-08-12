@@ -9,7 +9,7 @@ There is .reg file included which will add the program as a Windows Explorer con
 **Coming soon:** To assign album art, simply save the album art as "folder.jpg" or "folder.png". I have included the code sited below and as a stand alone script that can be ran.
 https://stuart-moore.com/using-powershell-add-images-mp3-files/
 
-Note - Windows Updates may cause the context menu to go away since core Windows Explorer reg keys are being modified. If that happens just reload the .reg file.
+**Note:** Windows Updates may cause the context menu to go away since core Windows Explorer reg keys are being modified. If that happens just reload the .reg file.
 
 Use this program at your own risk! I do not own the rights to lame.exe or ps2exe! 
 
