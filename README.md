@@ -21,6 +21,10 @@ Set-ExecutionPolicy Unrestricted
 2) Edit the .reg file with the file location where you wish to save the .mp3 files.
 "destinationBase"="C:\\Users\\Tim\\OneDrive\\Music\\The Company Men"
 
-3) double-click the .reg file to enable windows explorer context
+3) double-click the .reg file to enable windows explorer context and destination location
 
-4) The script will prompt you for a destination folder name which it will create in the directory specified in step #2.
+4) Now simply open Windows Explorer, browse to you folder of .wavs, right-click the folder and hit convertToMP3.
+
+5) The script will prompt you for a destination folder name which it will create in the directory specified in step #2.
+
+6) Let the script run
