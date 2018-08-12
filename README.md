@@ -8,7 +8,7 @@ There is .reg file included which will add the program as a Windows Explorer con
 
 **Coming soon:** To assign album art, simply save the album art as "folder.jpg" or "folder.png". I have included the code sited below and as a stand alone script that can be ran. 
 
-This script uses a library called taglib. I had trouble finding this from his post (I dont know how to build the project and get the .dll) so I included a link to where I downloaded taglib
+This script uses a library called taglib. I had trouble finding this from his post (I dont know how to build the project and get the .dll) so I included a link to where I downloaded taglib (It's also contained in this project's zip file).
 
 https://stuart-moore.com/using-powershell-add-images-mp3-files/
 https://web.archive.org/web/20151130093954/http://download.banshee.fm/taglib-sharp/2.1.0.0/taglib-sharp-2.1.0.0-windows.zip
