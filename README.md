@@ -26,7 +26,7 @@ Set-ExecutionPolicy Unrestricted
 1) Download the .zip file and extract to a file C:\convertMp3. If the files are not extracted to the correct location the program wont load properly.
 
 2) Edit the .reg file with the file location where you wish to save the .mp3 files.
-"destinationBase"="C:\\Users\\Tim\\OneDrive\\Music\\The Company Men"
+"destinationBase"="C:\\\Users\\\Tim\\OneDrive\\\Music\\\The Company Men"
 
 3) Double-click the .reg file to enable Windows Explorer context and destination location
 
